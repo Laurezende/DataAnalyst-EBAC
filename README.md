@@ -1,2 +1,2 @@
 # DataAnalyst
-Exercícios feitos no curso da EBAC de Analista de Dados.
+O que desenvolvi com o curso de Analista de Dados.
